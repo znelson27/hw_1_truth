@@ -8,3 +8,4 @@ with open(filename) as f:
         if random.random() < 0.01:
             print(line, end="")
 
+x = 3
